@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.710a1752.css",
+    "main.js": "/My_Portfolio/static/js/main.7cb277a1.js",
+    "static/js/787.dcc73137.chunk.js": "/My_Portfolio/static/js/787.dcc73137.chunk.js",
+    "static/media/WhatsApp Image 2022-12-25 at 02.02.56.jpg": "/My_Portfolio/static/media/WhatsApp Image 2022-12-25 at 02.02.56.664ebc377b5d8d6360c5.jpg",
+    "static/media/WhatsApp Image 2022-12-25 at 02.05.54.jpg": "/My_Portfolio/static/media/WhatsApp Image 2022-12-25 at 02.05.54.c12d28817b27cf5473e3.jpg",
+    "static/media/WhatsApp Image 2022-12-25 at 02.03.45.jpg": "/My_Portfolio/static/media/WhatsApp Image 2022-12-25 at 02.03.45.d63a4f5c557911345ebc.jpg",
+    "static/media/Mohamed mostafa frotend.pdf": "/My_Portfolio/static/media/Mohamed mostafa frotend.26566022e568e37d29c6.pdf",
+    "static/media/boy.png": "/My_Portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/WhatsApp Image 2022-12-25 at 02.05.08.jpg": "/My_Portfolio/static/media/WhatsApp Image 2022-12-25 at 02.05.08.212cc63d1c9ec552d57b.jpg",
+    "static/media/React-icon.svg.png": "/My_Portfolio/static/media/React-icon.svg.f6b89d232c9bc9f828e5.png",
+    "static/media/glassesimoji.png": "/My_Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/javascript_logo.png": "/My_Portfolio/static/media/javascript_logo.c82f51737aaa6831750c.png",
+    "static/media/logo-2582748_640.png": "/My_Portfolio/static/media/logo-2582748_640.75f4bd59119c8461c00c.png",
+    "static/media/thumbup.png": "/My_Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/My_Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/My_Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/My_Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/My_Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/bootstrapicon.png": "/My_Portfolio/static/media/bootstrapicon.268c4375260420e8d982.png",
+    "index.html": "/My_Portfolio/index.html",
+    "main.710a1752.css.map": "/My_Portfolio/static/css/main.710a1752.css.map",
+    "main.7cb277a1.js.map": "/My_Portfolio/static/js/main.7cb277a1.js.map",
+    "787.dcc73137.chunk.js.map": "/My_Portfolio/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710a1752.css",
+    "static/js/main.7cb277a1.js"
+  ]
+}
