@@ -59,8 +59,8 @@ const Portfolio = () => {
           <img src={MovieApp} alt="" />
           </a>
         <a target="_blank" href="https://mm341.github.io/Tesla-Clone/"> <img src={Tesla} alt="" /></a>
-          <a target="_blank" href="https://mm341.github.io/Ecommerce-Site/"><img src={Portfolio2} alt="" /></a>
-          <a target="_blank" href="https://mm341.github.com/My_Portfolio/"><img src={Ecommerce} alt="" /></a>
+          <a target="_blank" href="https://mm341.github.io/Ecommerce-Site/"><img src={Ecommerce} alt="" /></a>
+          <a target="_blank" href="https://mm341.github.io/My_Portfolio/"><img src={Portfolio2} alt="" /></a>
         </Slider>
     </div>
   );
